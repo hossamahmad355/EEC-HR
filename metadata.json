@@ -1,0 +1,6 @@
+{
+  "name": "EEC HR Management Dashboard",
+  "description": "نظام إدارة الموارد البشرية للشركة المصرية الهندسية للمقاولات (EEC) مع لوحة تحكم تفاعلية ودعم الوضع الليلي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
